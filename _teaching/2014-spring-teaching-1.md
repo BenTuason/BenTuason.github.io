@@ -1,7 +1,7 @@
 ---
 title: "COSC 3380 - Database Systems"
 collection: teaching
-venue: "University of Houston,"
+venue: "University of Houston"
 date: 2024-01-01
 location: "Houston, TX"
 ---
