@@ -2,7 +2,7 @@
 layout: archive
 title: "CV"
 permalink: /cv/
-author_profile: true
+author_profile: false
 redirect_from:
   - /resume
 ---
@@ -11,35 +11,46 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* B.S. in Computer Science, University of Houston, 2025
+* B.S. in Mathematics, University of Houston, 2025
+* A.S. in Computer Science, Houston Community College, 2023
 
-Work experience
+
+Research Interests
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Algorithms and Complexity Theory
+* Quantum Computing
+* Learning Theory
+* Cryptography
+* Optimization
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+Experience
+======
+* Summer 2024: Research Assistant
+  * Data Driven Computing REU @ The University of Houston
+  * Topic/Project: Generalization of ML model's performance on a cybersecurity dataset given its characteristics (difficulty & quality).
+  * Supervisor: Dr. Rakesh Verma
+
+* Spring 2024: Research Assistant
+  * Intelligent Data & Systems Lab
+  * Duties includes: Optimized parameters (wait time, batch size) to minimize latency of ML inference serving time.
+  * Supervisor: Dr. Feng Yan
+
+* Summer 2023: Research Assistant
+  * Real-Time Systems Lab
+  * Duties included: Implemented reinforcement learning for simulated cars using rate monotonic scheduling, which enhanced on-time arrivals and adherence to deadlines.
+  * Supervisor: Dr. Albert Cheng
+
+
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming Languages: Python, C++, C, R, SQL
+* Tools and Technologies: Git, GitHub, LaTeX
+* ML/DL: TensorFlow, PyTorch
+* QC: Qiskit, Classiq
+* Other: MySQL
 
 Publications
 ======
@@ -47,18 +58,14 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
+
 Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Awards
 ======
-* Currently signed in to 43 different slack teams
+* Dean's list: Fall 2023, Spring 2024
+* Transfer Excellence Scholarship

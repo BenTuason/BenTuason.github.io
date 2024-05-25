@@ -1,19 +1,10 @@
 ---
 title: "COSC 3380 - Database Systems"
 collection: teaching
-permalink: 
+type: "TA"
 venue: "University of Houston"
-date: 2024-01-01
+date: "Spring 2024-01-01"
 location: ""
+link: "https://publications.uh.edu/preview_course_nopop.php?catoid=44&coid=210742"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
