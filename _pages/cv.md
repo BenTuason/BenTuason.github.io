@@ -19,17 +19,19 @@ Education
 Research Interests
 ======
 
-* Algorithms and Complexity Theory
-* Quantum Computing
+* Complexity Theory - Concrete Complexity
+* Boolean Function Analysis
 * Learning Theory
+* Hardness of Approximation
+* Quantum Computing
+* Randomization 
 * Cryptography
-* Optimization
 
 Experience
 ======
 * Summer 2024: Research Assistant
   * Data Driven Computing REU @ The University of Houston
-  * Topic/Project: Generalization of ML model's performance on a cybersecurity dataset given its characteristics (difficulty & quality).
+  * Topic/Project: Reduce the binary linear classification problem to Edelsbrunner's Line Stabbing algorithm. See if it's PAC-learnable and if there's a way to generalize the method in higher dimensions efficiently.
   * Supervisor: Dr. Rakesh Verma
 
 * Spring 2024: Research Assistant
@@ -48,7 +50,6 @@ Skills
 ======
 * Programming Languages: Python, C++, C, R, SQL
 * Tools and Technologies: Git, GitHub, LaTeX
-* ML/DL: TensorFlow, PyTorch
 * QC: Qiskit, Classiq
 * Other: MySQL
 
