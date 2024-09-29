@@ -9,11 +9,11 @@ redirect_from:
 
 # About
 
-Hello! My name is Ben Tuason, and I am an undergraduate student at the University of Houston, majoring in Computer Science and Mathematics. I am interested in theoretical computer science, including algorithms, complexity theory, quantum computing, cryptography, optimization, and learning theory. My hobbies include scribing notes from lectures I enjoy watching, coding simulation projects, and playing video games like League of Legends. I am also a part of UH’s competitive programming team and CTF team.
+Hello! My name is Ben Tuason, and I am an undergraduate student at the University of Houston, majoring in Computer Science and Mathematics. I am interested in theoretical computer science, including algorithms, complexity theory, quantum computing, cryptography, circuit complexity, boolean function analysis, and learning theory. My hobbies include scribing notes from lectures I enjoy watching, coding simulation projects, and playing video games like League of Legends. I am also a part of UH’s ICPC competitive programming team and CTF team.
 
 ## Future Plans
 
-I aspire to pursue a Ph.D. in theoretical computer science, focusing on advanced research topics in algorithms and complexity theory. My goal is to contribute to the field through innovative research and collaboration.
+I aspire to pursue a Ph.D. in theoretical computer science, focusing on topics in algorithms and complexity theory. My goal is to contribute to the field through innovative research and collaboration.
 
 ## Contact
 
