@@ -1,5 +1,5 @@
 ---
-title: "COSC 3340 - Algorithms and Data Structures"
+title: "COSC 3320 - Algorithms and Data Structures"
 collection: teaching
 type: "TA"
 venue: "University of Houston"
